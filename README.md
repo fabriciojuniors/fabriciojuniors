@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Junior</h1>
 
 - 🔭 Atualmente trabalho na [Betha Sistemas](https://www.betha.com.br/)
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/jrsouzac](https://github.com/jrsouzac)
+- 👨‍💻 Todos os meus projetos estão disponíveis no [GitHub](https://github.com/jrsouzac)
 
 <h3 align="left">Conecte-se comigo</h3>
 <p align="left">
