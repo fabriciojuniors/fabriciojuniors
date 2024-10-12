@@ -1,5 +1,5 @@
-- 🔭 Atualmente trabalho na [Betha Sistemas](https://www.betha.com.br/)
-- 👨‍💻 Todos os meus projetos estão disponíveis no [GitHub](https://github.com/jrsouzac)
+- 🔭 Atualmente trabalho no [Cresol]([https://www.betha.com.br/](https://cresol.com.br/))
+- 👨‍💻 Todos os meus projetos estão disponíveis no [GitHub](https://github.com/fabriciojuniors)
 
 <h3 align="left">Conecte-se comigo</h3>
 <p align="left">
